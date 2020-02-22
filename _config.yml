@@ -1,7 +1,7 @@
 title: Qiaoying Huang's Homepage
 description: Qiaoying Huang's Homepage
-keywords: blog,css,html,php 
-author: "Link"
+keywords: Qiaoying Huang,rutgers 
+author: "Qiaoying Huang"
 
 #title hide and show
 hide: Qiaoying Huang
@@ -34,7 +34,7 @@ plugins:
   - jemoji
 
 # social account
-image: 
+image: https://api.dujin.org/bing/1920.php
 twitter:
   username:
 #  site:

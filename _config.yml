@@ -1,4 +1,4 @@
-title: Qiaoying Huang's Homepage
+title: Qiaoying Huang
 description: Qiaoying Huang's Homepage
 keywords: Qiaoying Huang,rutgers 
 author: "Qiaoying Huang"
@@ -34,8 +34,8 @@ plugins:
   - jemoji
 
 # social account
-image: https://api.dujin.org/bing/1920.php
-twitter:
+image: 
+github:charwing10.github.com
   username:
 #  site:
 facebook:

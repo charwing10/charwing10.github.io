@@ -14,9 +14,9 @@ tagline: （ • ̀ω•́ ） 这里竟然是标签哎！
 {% for item in (0..site.tags.size) %}
   {% unless forloop.last %}
     {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
-    <!--<h2 id="{{ this_word | cgi_escape }}" class="tag-title">
+    <h2 id="{{ this_word | cgi_escape }}" class="tag-title">
       #{{ this_word }}
-    </h2>-->
+    </h2>
     <!-- lists all posts corresponding to specific tag -->
     {% for post in site.tags[this_word] %}
       {% if post.title != null %}

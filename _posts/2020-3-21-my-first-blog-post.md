@@ -1,6 +1,8 @@
 ---
-layout:"post"
-title:"test page"
+layout: post
+title: my first test
+tags: Hydrogen
+stickie: true
 ---
 
 Some Content

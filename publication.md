@@ -1,5 +1,6 @@
 ---
-layout=page
-title=Publication
+layout:page
+title:Publication
 ---
+
 Publication List

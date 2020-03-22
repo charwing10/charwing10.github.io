@@ -10,6 +10,21 @@ layout: default
   <div>&nbsp;</div>
 
   <ul class="post-list">
+	  
+{% for post in site.posts %}
+      {% if post.title != null %}
+        <div class="tagged-post">
+          <h3 class="title">
+            <a href="{{ post.url | relative_url }}">
+              {{ post.title }}
+            </a>
+          </h3>
+          <div class="meta">
+            {{ post.date | date: "%B %-d, %Y" }}
+          </div>
+        </div>
+      {% endif %}
+    {% endfor %}
     
 {% if paginator.page == 1 %}
   {% for post in site.posts %}

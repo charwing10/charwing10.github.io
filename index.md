@@ -7,7 +7,7 @@ title: Qiaoying Huang
 ---
 # About me:
 
-![Photo](/assets/qiaoying.jpg)
+<img src="/assets/qiaoying.jpg" alt="Qiaoying" title="Photo" width="150" height="100" />
 
 I'm a Ph.D. student from Rutgers University. My advisor is Dimitris Metaxas. Currently, my research focus on MRI reconstruction, cardiac image segmentation, cardiac 3D modeling and etc..
 

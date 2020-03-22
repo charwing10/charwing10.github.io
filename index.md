@@ -3,5 +3,7 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
+title: welcome to my homepage
+tags: Hydrogen
 ---
 Welcom to my homepage!

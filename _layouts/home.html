@@ -20,7 +20,7 @@ layout: default
               {{ post.title }}
             </a>
           </h3>
-		  <img src="{% post.feature_img %}" />
+	    {{ <img src="{% post.feature_img %}" />}}
           <div class="meta">
             {{ post.date | date: "%B %-d, %Y" }}
           </div>

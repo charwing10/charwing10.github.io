@@ -7,8 +7,6 @@ title: Qiaoying Huang
 ---
 ### About me:
 
-Normal Text
-
 <p align="center">
   <b>Some Links:</b><br>
   <a href="charwinghuang@gmail.com">Email</a> |

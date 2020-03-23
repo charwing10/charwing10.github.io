@@ -1,3 +1,20 @@
 ---
 layout: home
 ---
+{% for post in site.posts %}
+      {% if post.title != null %}
+        <div class="tagged-post">
+          <h3 class="title">
+            <a href="{{ post.url | relative_url }}">
+              {{ post.title }}
+            </a>
+          </h3>
+          {% if post.feature_img %}
+              {{% include post-featured-image.html image=post.featured-image alt=post.featured-image-alt %}}
+          {% endif %}
+          <div class="meta">
+            {{ post.date | date: "%B %-d, %Y" }}
+          </div>
+        </div>
+      {% endif %}
+{% endfor %}

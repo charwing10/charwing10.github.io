@@ -16,21 +16,3 @@ title: Home
 </p>
 
 I'm a Ph.D. student from Rutgers University. My advisor is Dimitris Metaxas. Currently, my research focus on MRI reconstruction, cardiac image segmentation, cardiac 3D modeling and etc..
-
-{% for post in site.posts %}
-      {% if post.title != null %}
-        <div class="tagged-post">
-          <h3 class="title">
-            <a href="{{ post.url | relative_url }}">
-              {{ post.title }}
-            </a>
-          </h3>
-          {% if post.feature_img %}
-              {% include post-featured-image.html image=post.featured-image alt=post.featured-image-alt %}
-          {% endif %}
-          <div class="meta">
-            {{ post.date | date: "%B %-d, %Y" }}
-          </div>
-        </div>
-      {% endif %}
-{% endfor %}

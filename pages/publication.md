@@ -3,7 +3,7 @@ layout: page
 title: Publication
 ---
 
-## Publication List
+## Publications
 
 ### 2020
 * Yi, J., Wu, P., Huang, Q., Qu, H., & Metaxas, D. N. (2020). Vertebra-Focused Landmark Detection for Scoliosis Assessment. arXiv preprint arXiv:2001.03187.  [PDF](https://arxiv.org/abs/2001.03187)

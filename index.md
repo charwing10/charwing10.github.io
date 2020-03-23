@@ -7,11 +7,14 @@ title: Qiaoying Huang
 ---
 ### About me:
 
-<img src="/assets/qiaoying.jpg" alt="Qiaoying" title="Photo" width="200" />
+<img src="/assets/qiaoying.jpg" alt="Qiaoying" title="Photo" width="250" />
 
 I'm a Ph.D. student from Rutgers University. My advisor is Dimitris Metaxas. Currently, my research focus on MRI reconstruction, cardiac image segmentation, cardiac 3D modeling and etc..
 
 Email: <a href="charwinghuang@gmail.com">charwinghuang@gmail.com</a>
 
-Github: [charwing10](https://github.com/charwing10)
+Github: [https://github.com/charwing10](https://github.com/charwing10)
+
+Google Scholar:[Qiaoying Huang](https://scholar.google.com/citations?hl=en&user=6u-go5UAAAAJ&view_op=list_works)
+
 

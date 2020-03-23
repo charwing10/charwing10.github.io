@@ -5,7 +5,7 @@
 layout: home
 title: Qiaoying Huang
 ---
-# About me:
+### About me:
 
 <img src="/assets/qiaoying.jpg" alt="Qiaoying" title="Photo" width="200" />
 

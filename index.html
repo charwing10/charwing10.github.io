@@ -9,9 +9,6 @@ layout: home
               {{ post.title }}
             </a>
           </h3>
-          {% if post.feature_img %}
-              {{% include post-featured-image.html image=post.featured-image alt=post.featured-image-alt %}}
-          {% endif %}
           <div class="meta">
             {{ post.date | date: "%B %-d, %Y" }}
           </div>

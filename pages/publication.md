@@ -6,11 +6,11 @@ title: Publication
 ## Publications
 
 ### 2020
-* Yi, J., Wu, P., __Huang, Q.__, Qu, H., & Metaxas, D. N. (2020). Vertebra-Focused Landmark Detection for Scoliosis Assessment. arXiv preprint arXiv:2001.03187.  [PDF](https://arxiv.org/abs/2001.03187)
+* Yi, J., Wu, P., **Huang, Q.**, Qu, H., & Metaxas, D. N. (2020). Vertebra-Focused Landmark Detection for Scoliosis Assessment. arXiv preprint arXiv:2001.03187.  [PDF](https://arxiv.org/abs/2001.03187)
 
 
 ### 2019
-* __Huang, Q.__, Chen, X., Metaxas, D., & Nadar, M. S. Brain Segmentation from k-space with End-to-end Recurrent Attention Network. In International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI). Springer, Cham.  [PDF](https://arxiv.org/abs/1812.02068)
+* **Huang, Q.**, Chen, X., Metaxas, D., & Nadar, M. S. Brain Segmentation from k-space with End-to-end Recurrent Attention Network. In International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI). Springer, Cham.  [PDF](https://arxiv.org/abs/1812.02068)
 
 * Yi, J., Wu, P., __Huang, Q.__, Qu, H., Liu, B., Hoeppner, D. J., & Metaxas, D. N. Multi-scale cell instance segmentation with keypoint graph based bounding boxes. In International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI). Springer, Cham.  [PDF](https://arxiv.org/abs/1907.09140)  [Code](https://github.com/yijingru/KG_Instance_Segmentation)
 
@@ -42,4 +42,4 @@ title: Publication
 * __Huang, Q.__, You, Z., Zhang, X., & Zhou, Y. Prediction of protein–protein interactions with clustered amino acids and weighted sparse representation. International journal of molecular sciences.  [PDF](https://www.mdpi.com/1422-0067/16/5/10855)
 
 ### 2014
-* __Huang, Q.__, You, Z., Li, S., & Zhu, Z. Using Chou's amphiphilic Pseudo-Amino Acid Composition and Extreme Learning Machine for prediction of Protein-protein interactions. In 2014 International Joint Conference on Neural Networks (IJCNN). IEEE.  (PDF)(https://ieeexplore.ieee.org/abstract/document/6889476/)
+* __Huang, Q.__, You, Z., Li, S., & Zhu, Z. Using Chou's amphiphilic Pseudo-Amino Acid Composition and Extreme Learning Machine for prediction of Protein-protein interactions. In 2014 International Joint Conference on Neural Networks (IJCNN). IEEE.  [PDF](https://ieeexplore.ieee.org/abstract/document/6889476/)

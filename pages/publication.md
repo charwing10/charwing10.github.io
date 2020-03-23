@@ -33,7 +33,7 @@ title: Publication
 * Yi, J., Wu, P., __Huang, Q.__, Qu, H., Hoeppner, D. J., & Metaxas, D. N. Online Neural Cell Tracking using Blob-Seed Segmentation and Optical Flow. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops.  [PDF](http://openaccess.thecvf.com/content_CVPRW_2019/papers/CVMI/Yi_Online_Neural_Cell_Tracking_Using_Blob-Seed_Segmentation_and_Optical_Flow_CVPRW_2019_paper.pdf)
 
 ### 2018
-* __Yang, D.__, __Huang, Q.__, Axel, L., & Metaxas, D. (2018, April). Multi-component deformable models coupled with 2D-3D U-Net for automated probabilistic segmentation of cardiac walls and blood. In 2018 IEEE 15th International Symposium on Biomedical Imaging (ISBI 2018) (pp. 479-483). IEEE.  [PDF](https://ieeexplore.ieee.org/abstract/document/8363620/)
+* __Yang, D.__, __Huang, Q.__, Axel, L., & Metaxas, D. (2018, April). Multi-component deformable models coupled with 2D-3D U-Net for automated probabilistic segmentation of cardiac walls and blood. In 2018 IEEE 15th International Symposium on Biomedical Imaging (ISBI). IEEE.  [PDF](https://ieeexplore.ieee.org/abstract/document/8363620/)
 
 ### 2017
 * __Huang, Q.__, Jia, C. K., Zhang, X., & Ye, Y. Learning discriminative subspace models for weakly supervised face detection. IEEE Transactions on Industrial Informatics.  [PDF](https://ieeexplore.ieee.org/abstract/document/8039221/)
